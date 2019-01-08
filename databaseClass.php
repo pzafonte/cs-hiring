@@ -3,10 +3,10 @@
 	{
 		private $link;
 		private $res;
-		private $host = "localhost";
-		private $user = "admin";
-		private $pass = "c0w5_M00n";
-		private $db = "cshiring";
+		private $host = getenv('DB_HOST');
+		private $user = getenv('DB_USER');
+		private $pass = getenv('DB_PASS');
+		private $db = getenv('DB_DBNAME');
 
 
 		// sets user, pass and host and connects
