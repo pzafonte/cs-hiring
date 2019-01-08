@@ -3,10 +3,10 @@
 	{
 		private $link;
 		private $res;
-		private $host = "";
-		private $user = "";
-		private $pass = "";
-		private $db = "";
+		private $host = "localhost";
+		private $user = "admin";
+		private $pass = "c0w5_M00n";
+		private $db = "cshiring";
 
 
 		// sets user, pass and host and connects

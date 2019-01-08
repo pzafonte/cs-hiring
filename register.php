@@ -1,4 +1,6 @@
 <?PHP 
+	ini_set('display_errors', 1);
+
 	if (!isset($_POST["name"]))
 		header("location: index.php");
 	else
@@ -6,7 +8,7 @@
 		$cv = ""; $ts = ""; $rs = "";
 		$errors = 0;
 		include ("databaseClass.php");
-		include("header.php");
+//		include("header.php");
 		$type = (isset($_POST["type"]) && $_POST["type"] == T)?'T':'R';
 		$ss = (isset($_POST["ss"]))?'1':'0';
 		$vg = (isset($_POST["vg"]))?'1':'0';
@@ -140,7 +142,7 @@
 	else
 		echo "Application not submitted.<BR>";
 
-	include("footer.php");
+//	include("footer.php");
 }
 
 

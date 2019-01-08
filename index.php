@@ -1,7 +1,7 @@
 <?php
 session_start();
 $_SESSION["verify"] = "wroshyr";
-include("header.php");
+require("footer.php");
 ?>
 <SCRIPT LANGUAGE="JavaScript">
 //	alert('here2');
@@ -49,12 +49,12 @@ include("header.php");
 			alert ("You must provide a Research Statement in pdf format."); 
 			return false; 
 		} 
-		if ((ts == "") || (kc.substr(ts.length - 4) != ".pdf")) 
+		if ((ts == "") || (ts.substr(ts.length - 4) != ".pdf")) 
 		{ 
 			alert ("You must provide a Teaching Statement in pdf format."); 
 			return false; 
 		} 
-		if ((cl == "") || (kc.substr(cl.length - 4) != ".pdf")) 
+		if ((cl == "") || (cl.substr(cl.length - 4) != ".pdf")) 
 		{ 
 			alert ("You must provide a Cover Letter in pdf format."); 
 			return false; 
@@ -243,4 +243,3 @@ viding this information is optional.  Failure to submit data will not in any way
 </form> 
 <p> 
 Have you already applied?  You can review your application by <A HREF="login.php">logging back in.</A></p> 
-<?PHP include("footer.php"); ?>
