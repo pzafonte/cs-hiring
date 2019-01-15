@@ -5,7 +5,8 @@
 		private $res;
 		private $host = "localhost";
 		private $user = "admin";
-		private $pass = "c0w5_M00n";
+		//not the actual password -- nice try!
+		private $pass = "hackmeplease";
 		private $db = "cshiring";
 
 
