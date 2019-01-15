@@ -1,12 +1,14 @@
 <?PHP
+
+
 	class database
 	{
 		private $link;
 		private $res;
-		private $host = getenv('DB_HOST');
-		private $user = getenv('DB_USER');
-		private $pass = getenv('DB_PASS');
-		private $db = getenv('DB_DBNAME');
+		private $host = "";
+		private $user = "";
+		private $pass = "";
+		private $db = "";
 
 
 		// sets user, pass and host and connects
