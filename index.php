@@ -243,3 +243,6 @@ viding this information is optional.  Failure to submit data will not in any way
 </form> 
 <p> 
 Have you already applied?  You can review your application by <A HREF="login.php">logging back in.</A></p> 
+
+<?php require("footer.php"); ?>
+
