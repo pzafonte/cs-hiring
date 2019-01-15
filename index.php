@@ -1,7 +1,7 @@
 <?php
 session_start();
 $_SESSION["verify"] = "wroshyr";
-require("footer.php");
+require("header.php");
 ?>
 <SCRIPT LANGUAGE="JavaScript">
 //	alert('here2');
