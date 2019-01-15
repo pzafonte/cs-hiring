@@ -23,7 +23,7 @@
 <div class="fill">
 <div class="logo">
 
-<div class="topLine"><div class ="header">CS Department Applications</div></div>
+<div class="topLine"><div class ="header">Job Application site Demo for portfolio</div></div>
 </div>
 </div>
 
@@ -35,7 +35,6 @@
 <div class ="menuLinks">
 <p style="text-align: center;">
   <strong>Computer Science Department</strong><br>
-  <a href="http://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science">Department Web Site</a><br>
-  <a href="http://www.stevens.edu/compsci/search">Open Positions</a>
+  <a href="http://www.stevens.edu/compsci/search">This is the real site... FYI</a>
   </p>
 </div> </div><div class = "content">

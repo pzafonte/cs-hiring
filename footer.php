@@ -1,6 +1,6 @@
 </div>
-<div class="copyrightText">Stevens Institute of Technology - Hoboken, NJ <br>
-Copyright 2016 Stevens Institute of Technology. All Rights Reserved.</div>
+<div class="copyrightText">
+Written for Stevens Insitute of Technology.</div>
 </div>
 <div class="bottomCover"></div>
 
