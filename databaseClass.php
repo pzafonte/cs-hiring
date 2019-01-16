@@ -5,10 +5,10 @@
 	{
 		private $link;
 		private $res;
-		private $host = "";
-		private $user = "";
-		private $pass = "";
-		private $db = "";
+		private $host = "localhost";
+		private $user = "superauser";
+		private $pass = "g4y_BU77_53x";
+		private $db = "cshiring";
 
 
 		// sets user, pass and host and connects
