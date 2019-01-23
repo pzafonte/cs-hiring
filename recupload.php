@@ -21,7 +21,7 @@
 		if ($db->num_rows() > 0)
 		{
 			echo "You already submitted a recommendation for that person";
-			echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:pzafonte@stevens.edu\">email the webmaster</A>.</p>";
+			echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:zafonte@gmail.com\">email the webmaster</A>.</p>";
 			include("footer.php");
 			exit;
 		}
@@ -46,7 +46,7 @@
 			echo "<p>Thank you.</p>";
 			echo "<BR>";
 
-			echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:pzafonte@stevens.edu\">email the webmaster</A>.</p>";
+			echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:zafonte@gmail.com\">email the webmaster</A>.</p>";
 			include("footer.php");
 		}
 	}

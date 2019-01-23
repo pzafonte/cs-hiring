@@ -8,7 +8,7 @@
 // batch 6: 1175
 // batch 7: 1264
 
-	$start_index = 1264;
+	$start_index = 3;
 	$end_index = 4096;
 	$typeofsearch = 'R'; // T for teaching, R for research, B for both
 ?>

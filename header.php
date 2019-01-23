@@ -23,7 +23,7 @@
 <div class="fill">
 <div class="logo">
 
-<div class="topLine"><div class ="header">DEMO Job Application For Portfolio</div></div>
+<div class="topLine"><div class ="header">DEMO Job Applicant Site For Portfolio</div></div>
 </div>
 </div>
 
@@ -35,6 +35,6 @@
 <div class ="menuLinks">
 <p style="text-align: center;">
   <strong>Computer Science Department</strong><br>
-  <a href="http://www.stevens.edu/compsci/search">This is the actual website.</a>
+  <!-- <a href="http://www.stevens.edu/compsci/search">This is the actual website.</a> -->
   </p>
 </div> </div><div class = "content">

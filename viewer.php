@@ -332,6 +332,6 @@ Research Area(s):<br/>
 </CENTER>
 </p>
 <p>&nbsp;</p>
-<p>If you are experiencing any issues, please <A HREF="mailto:pzafonte@stevens.edu">email the webmaster</A>.</p>
+<p>If you are experiencing any issues, please <A HREF="mailto:zafonte@gmail.com">email the webmaster</A>.</p>
 
 <?PHP require("footer.php"); ?>

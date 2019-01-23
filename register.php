@@ -129,11 +129,11 @@
 			     $db->send_sql("INSERT INTO files (id_user, type, data, size) VALUES ('".$id."','RS','".$rsc."','".$rss."');");
 
 		$message = "Thank you for submitting your application for a Faculty Position at the Stevens Institute of Technology. In order for you to update your contact information, go to www.stevens.edu/compsci/search/login.php using your login credentials. In order to have recommendations submitted on your behalf, have your recommenders follow the following link and fill in the form.\n\n";
-		$message .= "https://www.stevens.edu/compsci/search/recommend.php?hash=".$hash."\n\n";
+		$message .= "http://157.230.134.193/recommend.php?hash=".$hash."\n\n";
 		$message .= "\nThank you for your interest.\n\n";
 		echo nl2br($message);
-		echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:pzafonte@stevens.edu\">email the webmaster</A>.</p>";
-		$message .= "Please do NOT reply to this email as it was automatically generated. In case of questions please email the Webmaster pzafonte@stevens.edu\n\n";
+		echo "<p>If you are experiencing any issues, please <A HREF=\"mailto:zafonte@gmail.com\">email the webmaster</A>.</p>";
+		$message .= "Please do NOT reply to this email as it was automatically generated. In case of questions please email the Webmaster zafonte@gmail.com\n\n";
 		mail ($email, "Stevens Institute of Technology - CS Faculty Application", $message);
 
 //		mail ("faculty-search@cs.stevens.edu", "New Application Submitted", $message);
