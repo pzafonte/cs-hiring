@@ -27,7 +27,7 @@ Registration is completed and you are given a link with a hash that you can send
 The link where one can leave a recommendation.
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/3.png "Screenshot 3")
 
-Logging in as an admin.
+#### Admin/Super-Admin Features
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/4.png "Screenshot 4")
 
 I can view all applicants.
@@ -42,7 +42,11 @@ view/modify their information...
 And invite them as a potential candidate...
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/8.png "Screenshot 8")
 
-
+I can view invited candidates.
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/9.png "Screenshot 9")
+
+I can then leave comments about them for other faculty members to read.
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/10.png "Screenshot 10")
+
+I can also send mass e-mail particular pools of candidates
 ![alt text](https://github.com/pzafonte/cs-hiring/blob/master/11.png "Screenshot 11")
