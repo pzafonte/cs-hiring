@@ -18,3 +18,31 @@ CREATE TABLE comments (id_comment INT AUTO_INCREMENT PRIMARY KEY NOT NULL, from_
 
 ### Program Flow / Screenshots
 
+Create an applicant account. The type of application happens to be a research application.
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/1.png "Screenshot 1")
+
+Registration is completed and you are given a link with a hash that you can send to get recommendations.
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/2.png "Screenshot 2")
+
+The link where one can leave a recommendation.
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/3.png "Screenshot 3")
+
+Logging in as an admin.
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/4.png "Screenshot 4")
+
+I can view all applicants.
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/5.png "Screenshot 5")
+
+If I choose an applicant...
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/6.png "Screenshot 6")
+
+view/modify their information...
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/7.png "Screenshot 7")
+
+And invite them as a potential candidate...
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/8.png "Screenshot 8")
+
+
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/9.png "Screenshot 9")
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/10.png "Screenshot 10")
+![alt text](https://github.com/pzafonte/cs-hiring/blob/master/11.png "Screenshot 11")
