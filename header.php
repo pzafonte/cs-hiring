@@ -6,7 +6,7 @@
 <head>
 <!-- <meta http-equiv="refresh" content="0;url=https://academicjobsonline.org/ajo/Stevens/CS"> -->
 
-<title>Stevens CS Department Job Applicant Site</title>
+<title>DEMO Job Applicant Site</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="style.css" type="text/css">
 <script src="js/cufon-yui.js" type="text/javascript"></script>
@@ -23,7 +23,7 @@
 <div class="fill">
 <div class="logo">
 
-<div class="topLine"><div class ="header">Job Application  Demo For Portfolio</div></div>
+<div class="topLine"><div class ="header">DEMO Job Applicant Site For Portfolio</div></div>
 </div>
 </div>
 
@@ -35,6 +35,6 @@
 <div class ="menuLinks">
 <p style="text-align: center;">
   <strong>Computer Science Department</strong><br>
-  <a href="http://www.stevens.edu/compsci/search">This is the real site...</a>
+  <!-- <a href="http://www.stevens.edu/compsci/search">This is the actual website.</a> -->
   </p>
 </div> </div><div class = "content">

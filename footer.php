@@ -1,6 +1,6 @@
 </div>
 <div class="copyrightText">
-Written for Stevens Insitute of Technology.</div>
+Work done for Stevens Institute of Technology - Hoboken, NJ.</div>
 </div>
 <div class="bottomCover"></div>
 

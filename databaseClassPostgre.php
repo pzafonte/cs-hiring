@@ -28,6 +28,7 @@
 			else
 			{
 				try {
+					//Server no longer exists -- change credentials if using PostGres
 					if (!$this->link=pg_connect("host=heineken.cs.stevens-tech.edu user=www-cs-search password=xoot5The dbname=www-cs-searchDB"))
 						throw new Exception("Cannot Connect to ".$this->host);
 				} catch (Exception $e)

@@ -27,6 +27,7 @@
 ?>
 <form action="login.php" method="POST" name="form1">
 <p>Use this form to review and update an application you have already submitted.</p>
+	<p>If you want to see the admin interface use <b>test@example.com</b> and <b>password123</b> for your credentials.</p>
 <p>You must first log back into the system using the email and password that you provided when you originally submitted your application.</p>
 <TABLE width=200>
 <TR>
